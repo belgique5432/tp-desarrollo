@@ -9,13 +9,15 @@ header {
 
 a {
     text-decoration: none;
-    color: black;
+    color: white;
     font-weight: bold;
+    font-size: 18px;
 }
 
 li {
     list-style: none;
     margin-top: 10px;
+
 }
 
 .browser {
@@ -24,11 +26,15 @@ li {
 }
 
 .card {
-    background-color: #006CE4;
+    background-color: #F1911E;
+    padding: 10px;
+    margin-top: 20px;
 }
 
 .card-tittle{
-    color: white;
+    color: #ffff;
+    font-weight: bold;
+
 }
 
 .cards-section-title {
@@ -37,6 +43,7 @@ li {
 
 .title {
     font-weight: bolder;
+    color: #F1911E;
 }
 
 footer {
@@ -52,6 +59,8 @@ footer a {
 .contact-form {
     background-color: #006CE4;
     padding: 1%;
+    color: white;
+    font-weight: bold;
 }
 
 .contact-line {
